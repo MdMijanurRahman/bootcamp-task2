@@ -1,0 +1,40 @@
+
+#bg-color{
+    background-color: white;
+}
+.section-styles{
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+}
+
+.watch-styles{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0dcbf0;
+    border-radius: 5px;
+    width: 380px;
+    font-size: 30px;
+    padding: 20px 20px;
+}
+
+.shoes-styles{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0e6ffd;
+    border-radius: 5px;
+    width: 380px;
+    font-size: 30px;
+    padding: 20px 20px;
+}
+
+.bags-styles{
+    display: flex;
+    justify-content: space-between;
+    background-color: #198754;
+    border-radius: 5px;
+    width: 380px;
+    font-size: 30px;
+    padding: 20px 20px;
+}
+
